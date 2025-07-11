@@ -8,7 +8,7 @@ const About = () => (
     I'm Khaled — a CS student at Al-Hussain Technical University (HTU). I enjoy building full-stack apps that actually solve problems, not just sit in a folder.
   </p>
   <p>
-    Most of my work is built using React, Node.js, and SQL. Lately, I’ve been building a medical records system, working on a game called "Cancer Strike" in Unity, and creating tools for the Formula SAE team (where I’m also a driver 👨‍🔧🏎️).
+    Most of my work is built using React, Node.js, and SQL. Lately, I’ve been building a medical records system, working on a game called "Cancer Strike" in Unity, and a driver for the Formula SAE team in my College 👨‍🔧🏎️.
   </p>
   <p>
     I’m fluent in Arabic and pretty comfortable with English (around B2–C1 level). No freelance gigs or internships yet, but I’m totally open to opportunities that push me to grow.
