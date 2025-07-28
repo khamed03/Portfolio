@@ -8,10 +8,9 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "homepage": "https://khamed03.github.io/my-portfolio",
+    "homepage": "https://khamed03.github.io/portfolio",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-
   },
   "dependencies": {
     "react": "^19.1.0",
